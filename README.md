@@ -1,0 +1,2 @@
+# Stock-Market-Analysis-Price-Prediction-with-Python-AI
+Plateforme Python complète pour l'analyse des marchés boursiers et la prédiction de prix par IA. Comprend modèles de forecasting ML, optimisation de portefeuille (ratio Sharpe), analyse de risque, corrélations et visualisations interactives. Développé avec yfinance, scikit-learn, pandas et matplotlib pour applications de finance quantitative.
