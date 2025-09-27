@@ -34,7 +34,7 @@ git clone https://github.com/whynbe/Stock-Market-Analysis-Price-Prediction-with-
 cd Stock-Market-Analysis-Price-Prediction-with-Python-AI
 
 # Install dependencies
-pip install -r requirements.txt
+pip install pandas numpy matplotlib scikit-learn yfinance certifi
 
 # Run the analysis
 python stock_analysis.py
